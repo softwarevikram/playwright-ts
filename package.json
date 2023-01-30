@@ -1,0 +1,21 @@
+{
+  "name": "playwright-ts",
+  "version": "1.0.0",
+  "description": "practice repo",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/softwarevikram/playwright-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/softwarevikram/playwright-ts/issues"
+  },
+  "homepage": "https://github.com/softwarevikram/playwright-ts#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.30.0"
+  }
+}
